@@ -2,7 +2,7 @@
 <addon id="plugin.video.WEBPLAY"
        name="[COLOR white][B]WEB[/B][/COLOR] [COLOR red][B]PLAY[/B][/COLOR]"
        version="1.0"
-       provider-name="by Adelvan">
+       provider-name="by [COLOR red]Adelvan[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
