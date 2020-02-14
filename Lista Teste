@@ -1,9 +1,0 @@
-
-#EXTM3U
-
-#EXTINF:-1 tv-logo="https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg" group-title="Filmes", [COLOR red] 1917 [/B] [/COLOR] - Legendado
-http://cdndp.topcine.tv/ondemand/filmes/1917LEG.mp4
-
-
-#EXTINF:-1 tv-logo="https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg" group-title="Filmes", [COLOR red] Doutor Sono [/B] [/COLOR] - Dublado
-http://cdndp.topcine.tv/ondemand/filmes/Doctor.sleep.2019.mp4
