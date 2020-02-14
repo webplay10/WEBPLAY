@@ -20,3 +20,8 @@ by Adelvan
 <item>
 <item>
 
+
+#EXTM3U
+
+#EXTINF:-1 tv-logo="https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg" group-title="Filmes", 1917
+http://cdndp.topcine.tv/ondemand/filmes/1917LEG.mp4
