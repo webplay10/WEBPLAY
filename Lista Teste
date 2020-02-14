@@ -1,27 +1,5 @@
-<item>
-<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LISTA TESTE [/COLOR]</title>
-<thumbnail></thumbnail>
-<link>https://</link>
-<info>
-
-by Adelvan
-[COLOR deeppink] -LANÇAMENTOS 2019 -[COLOR deeppink]1[/COLOR]<info>
-<item>
-
-
-
-<item>
-<title> [COLOR indigo][B]1917 [/COLOR] -[COLOR red](2019)[/COLOR] - [COLOR lime](1080p)[/COLOR]- Dublado[/B]</title>
-<link>http://cdndp.topcine.tv/ondemand/filmes/1917LEG.mp4</link>
-<link>http://cdndp.topcine.tv/ondemand/filmes/1917LEG.mp4[COLOR orange] Assistir [/COLOR] - Servidor1</link>
-<thumbnail>https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
-<info>[COLOR green][/B]by [/B][/COLOR][COLOR mediumblue][/B][/COLOR][COLOR deeppink][B]Adelvan[/B][/COLOR] - [COLOR lime][/B]by [B]Sipnose:[/COLOR]
-<item>
-<item>
-
 
 #EXTM3U
 
-#EXTINF:-1 tv-logo="https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg" group-title="Filmes", 1917
+#EXTINF:-1 tv-logo="https://image.tmdb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg" group-title="Filmes", [COLOR red] 1917 [/COLOR] [/B] - Legendado
 http://cdndp.topcine.tv/ondemand/filmes/1917LEG.mp4
