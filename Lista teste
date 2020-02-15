@@ -5,15 +5,23 @@
 <info>
 
 by Adelvan
-[COLOR deeppink] -LANÇAMENTOS 2019 -[COLOR deeppink]1[/COLOR]<info>
+[COLOR deeppink] - LANÇAMENTOS -[COLOR deeppink]1[/COLOR]<info>
 <item>
 
 
  <item>
-                <title>[COLOR white] A Morte de Supermam - 2018 [/COLOR] </title> A Morte de Supermam        
+                <title>[COLOR white] A Morte de Supermam - 2018 [/COLOR] </title>       
                 <link>http://cdndp.topcine.tv/hdx/filmes/The.death.of.superman.2018.mp4</link>
-                <thumbnail>C:\my_thumbs\news.png</thumbnail>
+                <thumbnail>https://image.tmdb.org/t/p/original/wA1eufMEvM0RdQk24gj5yaDWLjQ.jpg</thumbnail>
             </item>
         </items>
     </channel>
 
+
+<item>
+                <title>[COLOR white] As Panteras - 2020 [/COLOR] </title>       
+                <link>http://cdndp.topcine.tv/ondemand/filmes/AsPanteras2019.mp4</link>
+                <thumbnail>https://image.tmdb.org/t/p/original/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
