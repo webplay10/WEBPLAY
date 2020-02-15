@@ -11,7 +11,7 @@ by Adelvan
 
  <item>
                 <title>News 4</title> A Morte de Supermam        
-                <link>rtmp://some/place playpath=some_place swfUrl="http://cdndp.topcine.tv/hdx/filmes/The.death.of.superman.2018.mp4</link>
+                <link>http://cdndp.topcine.tv/hdx/filmes/The.death.of.superman.2018.mp4</link>
                 <thumbnail>C:\my_thumbs\news.png</thumbnail>
             </item>
         </items>
