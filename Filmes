@@ -14,6 +14,30 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LISTA TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801405.us.archive.org/22/items/lancamentos_20200209_2050/drama.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Drama</externallink>
+<fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
+<info>
+
+            <item>
+                <title>News 4</title> A Morte de Supermam        
+                <link>rtmp://some/place playpath=some_place swfUrl="http://cdndp.topcine.tv/hdx/filmes/The.death.of.superman.2018.mp4</link>
+                <thumbnail>C:\my_thumbs\news.png</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+
+
+[COLOR deeppink]|[/COLOR] - O MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <channels>
 <channel>
