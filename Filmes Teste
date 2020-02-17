@@ -60,7 +60,7 @@ by Adelvan
     
     
 <item>
-                <title>[COLOR yellow] Malevola: Dona do mal - [COLOR white](2019)[/COLOR] - [COLOR white](1080p)- Dublado /COLOR]</title>       
+                <title>[COLOR yellow] Malevola: Dona do mal - [COLOR white](2019)[/COLOR] - [COLOR white](1080p)- Dublado [/COLOR]</title>       
                 <link>http://cdndp.topcine.tv/ondemand/filmes/Malevola2019DUB.mp4</link>
                 <thumbnail>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</thumbnail>
                 <fanart>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</fanart>
@@ -68,4 +68,27 @@ by Adelvan
         </items>
     </channel>
     
+
     
+<item>
+                <title>[COLOR yellow] Vingadores: Ultimato - [COLOR white](2019)[/COLOR] - [COLOR white](1080p)- Dublado [/COLOR]</title>       
+                <link>http://movies.zeus.openload.network/movies/avengersendgamenew-dub-720p.mp4</link>
+                <thumbnail>https://www.mmfilmes.info/wp-content/uploads/oihnoMVJHcdmUe0FbxWbwk1YbGZ.jpg</thumbnail>
+                <fanart>https://www.mmfilmes.info/wp-content/uploads/oihnoMVJHcdmUe0FbxWbwk1YbGZ.jpg</fanart>
+            </item>
+        </items>
+    </channel>
+    
+    
+<item>
+                <title>[COLOR yellow] O Rei Leão: O Filmes - [COLOR white](2019)[/COLOR] - [COLOR white](1080p)- Dublado [/COLOR]</title>       
+                <link>http://cdndp.topcine.tv/hdx/server1/The.lion.king.2019.mp4</link>
+                <thumbnail>https://www.cinemaqualidade.is/wp-content/uploads/2019/10/o-rei-leao-2019-4k.jpg</thumbnail>
+                <fanart>https://www.cinemaqualidade.is/wp-content/uploads/2019/10/o-rei-leao-2019-4k.jpg</fanart>
+            </item>
+        </items>
+    </channel>
+
+
+
+
