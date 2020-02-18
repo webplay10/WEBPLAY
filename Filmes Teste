@@ -14,6 +14,7 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/hdx/filmes/The.death.of.superman.2018.mp4</link>
                 <thumbnail>https://image.tmdb.org/t/p/original/wA1eufMEvM0RdQk24gj5yaDWLjQ.jpg</thumbnail>
                 <fanart>https://image.tmdb.org/t/p/original/wA1eufMEvM0RdQk24gj5yaDWLjQ.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -24,6 +25,7 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/ondemand/filmes/AsPanteras2019.mp4</link>
                 <thumbnail>https://image.tmdb.org/t/p/original/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg</thumbnail>
                 <fanart>https://image.tmdb.org/t/p/original/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -34,6 +36,7 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/ondemand/filmes/Abominable.2019.mp4</link>
                 <thumbnail>https://image.tmdb.org/t/p/original/tLCDKsXo6D84IVFanoElosSEKdp.jpg</thumbnail>
                 <fanart>https://image.tmdb.org/t/p/original/tLCDKsXo6D84IVFanoElosSEKdp.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -44,6 +47,7 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/ondemand/filmes/Terminator.dark.fate.2019.mp4</link>
                 <thumbnail>https://www.cinemaqualidade.is/wp-content/uploads/2020/01/exterminador-implacavel-4k.jpg</thumbnail>
                 <fanart>https://www.cinemaqualidade.is/wp-content/uploads/2020/01/exterminador-implacavel-4k.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -54,6 +58,7 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/ondemand/filmes/monosleg2019.mp4</link>
                 <thumbnail>https://image.tmdb.org/t/p/original/hmOrnAImC8QVRurauDcK0l3jjyw.jpg</thumbnail>
                 <fanart>https://image.tmdb.org/t/p/original/hmOrnAImC8QVRurauDcK0l3jjyw.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -64,6 +69,7 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/ondemand/filmes/Malevola2019DUB.mp4</link>
                 <thumbnail>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</thumbnail>
                 <fanart>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -75,6 +81,7 @@ by Adelvan
                 <link>http://movies.zeus.openload.network/movies/avengersendgamenew-dub-720p.mp4</link>
                 <thumbnail>https://www.mmfilmes.info/wp-content/uploads/oihnoMVJHcdmUe0FbxWbwk1YbGZ.jpg</thumbnail>
                 <fanart>https://www.mmfilmes.info/wp-content/uploads/oihnoMVJHcdmUe0FbxWbwk1YbGZ.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
@@ -85,16 +92,18 @@ by Adelvan
                 <link>http://cdndp.topcine.tv/hdx/server1/The.lion.king.2019.mp4</link>
                 <thumbnail>https://www.cinemaqualidade.is/wp-content/uploads/2019/10/o-rei-leao-2019-4k.jpg</thumbnail>
                 <fanart>https://www.cinemaqualidade.is/wp-content/uploads/2019/10/o-rei-leao-2019-4k.jpg</fanart>
+                <info><info>
             </item>
         </items>
     </channel>
 
 
 <item>
-                <title>[COLOR orangered] Aves de Rapina - [COLOR white](2019)[/COLOR] - [COLOR white](1080p)- Dublado [/COLOR]</title>       
+                <title>[COLOR orangered] Arlequina em Aves de Rapina - [COLOR white](2019)[/COLOR] - [COLOR white](1080p)- Dublado [/COLOR]</title>       
                 <link>http://movies.zeus.openload.network/movies/birdsofpreyts-dub-720p.mp4</link>
                 <thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/02/5316438.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
                 <fanart>https://abrilexame.files.wordpress.com/2019/10/aves-de-rapina.jpg</fanart>
+                <info>epois de se aventurar com o Coringa, Arlequina se junta a Canário Negro, Caçadora e Renee Montoya para salvar a vida de uma garotinha do criminoso Máscara Negra em Gotham City.<info>
             </item>
         </items>
     </channel>
