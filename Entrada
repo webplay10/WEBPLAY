@@ -1,4 +1,4 @@
-Activate window(
+<activate window>
 
 <channels>
 <channel>
@@ -29,3 +29,5 @@ Activate window(
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<)
+
+<activate window>
