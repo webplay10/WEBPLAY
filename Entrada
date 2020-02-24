@@ -1,6 +1,4 @@
-<activatewindow>
-
-<channels>
+<activatewindow(<channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - WEB PLAY[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/bemvindo.png</thumbnail>
@@ -25,7 +23,7 @@
 
 
 [COLOR deeppink]|[/COLOR] - "Os melhores, filmes e séries pra voçe suas familias"- [COLOR deeppink]|[/COLOR]</info>
-</channel>
+</channel>)
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<activatewindow>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
