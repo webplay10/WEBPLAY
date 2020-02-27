@@ -1,31 +1,94 @@
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - WEB PLAY[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/bemvindo.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - O MELHOR DA EVOLUÇÃO - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE AQUI [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/entrar.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Categorias</externallink>
-<fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - "Os melhores, filmes e séries pra voçe suas familias"- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+ <xml>
+ 
+<item>
+    <title>[COLOR red][B]------------------[/COLOR][COLOR grey]SEJA BEM-VINDOS[/COLOR][COLOR red]------------------[/B][/COLOR]</title>
+    <heading></heading>
+</item>
+ 
+<dir>
+    <title>[COLOR grey][B]Movies[/COLOR][/B]</title>
+    <summary>Movies</summary>
+    <link>https://pastebin.com/raw/gCXZkh9J</link>
+</dir>
+ 
+<dir>
+    <title>[COLOR grey][B]TV Shows[/COLOR][/B]</title>
+    <summary>TV Show</summary>
+    <link>https://pastebin.com/raw/jZan78G5</link>
+</dir>
+ 
+<dir>
+    <title>[COLOR grey][B]CarToons/Anime[/COLOR][/B]</title>
+<summary>Cartoons e Anime</summary>
+    <link>https://pastebin.com/raw/4KYZBE5c</link>
+</dir>
+ 
+<dir>
+    <title>[COLOR grey][B]Live TV[/COLOR][/B]</title>
+    <summary>Live TV</summary>
+    <link>https://pastebin.com/raw/hQbP2ALN</link>
+</dir>
+ 
+<dir>
+        <title>[COLOR grey][B]Fitness[/COLOR][/B]</title>
+        <summary>Fitness</summary>
+        <link>https://pastebin.com/raw/PYWcdXXQ</link>
+</dir>
+ 
+<dir>
+        <name>[COLOR grey][B]Sports[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/kw4SHes6</link>
+    <thumbnail></thumbnail>
+    <summary>Sports</summary>
+</dir>
+ 
+<dir>
+    <title>[COLOR grey][B]Music[/COLOR][/B]</title>
+    <summary>Music</summary>
+    <link>https://pastebin.com/raw/MRFUwKMA</link>
+</dir>
+ 
+<dir>
+    <title>[COLOR grey][B]Trailers[/COLOR][/B]</title>
+    <summary>Trailer</summary>
+    <link>https://pastebin.com/raw/4zKrMyav</link>
+</dir>
+ 
+<dir>
+    <title>[COLOR grey][B]ThunderZone[/COLOR][/B]</title>
+    <summary>Custom Section</summary>
+    <link>https://pastebin.com/raw/yUqRwVsU</link>
+</dir>
+ 
+<dir>
+<title>[COLOR grey][B]Mais Plugins[/COLOR][/B]</title>
+<summary>Plugins de reposição</summary>
+<link>https://pastebin.com/raw/q8D10fE</link>
+</dir>
+ 
+<item>
+    <title>[COLOR red][B]--------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+ 
+<dir>
+    <title>[COLOR red][B]Trakt[/COLOR] [COLOR grey]Stuff[/COLOR][/B]</title>
+    <summary>Your Trakt</summary>
+    <link>https://pastebin.com/raw/Kmg1xv1J</link>
+    <thumbnail>special://home/addons/plugin.video.ThunderCat/resources/images/trakt.png</thumbnail>
+</dir>
+ 
+<dir>
+    <title>[COLOR red][B]Quick[/COLOR] [COLOR grey]Tools[/COLOR][/B]</title>
+    <summary>Tools</summary>
+    <link>https://pastebin.com/raw/GUMCKkEZ</link>
+    <thumbnail>special://home/addons/plugin.video.ThunderCat/resources/images/icons/Quicktools.png</thumbnail>
+</dir>
+ 
+<item>
+    <title>[COLOR red][B]--------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+ 
+ 
+</xml>
