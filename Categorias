@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|[/COLOR] [COLOR white][B]FILMES[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
+<name>[COLOR orangered]|[/COLOR] [COLOR yellow][B]FILMES[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Filmes</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|[/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
+<name>[COLOR orangered]|[/COLOR] [COLOR orangered][B]SÉRIES[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/23/items/kids_20200209/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/S%C3%A9ries%20categorias</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|[/COLOR] [COLOR white][B]KIDS[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
+<name>[COLOR orangered]|[/COLOR] [COLOR green][B]KIDS[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/kids.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Kids</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
