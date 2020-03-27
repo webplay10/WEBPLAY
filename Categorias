@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|[/COLOR] [COLOR yellow][B]FILMES[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
+<name>[COLOR yellow]|[/COLOR] [COLOR yellow][B]FILMES[/B][/COLOR] [COLOR yellow]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Filmes</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - O MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR yellow]|[/COLOR] - O MELHORES LANÇAMENTOS - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -24,7 +24,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR orangered]|[/COLOR] - AS MELHORES SÉRIES - [COLOR orangered]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -34,14 +34,14 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|[/COLOR] [COLOR green][B]KIDS[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
+<name>[COLOR green]|[/COLOR] [COLOR green][B]KIDS[/B][/COLOR] [COLOR green]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/kids.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Kids</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - TUDO PARA CRIANÇADA - [COLOR deeppink]|[/COLOR]</info>
+[COLOR green]|[/COLOR] - TUDO PARA CRIANÇADA - [COLOR green]|[/COLOR]</info>
 </channel>
 </channels>
 
