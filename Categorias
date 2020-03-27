@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|[/COLOR] [COLOR white][B]KIDS[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered]|[/COLOR] [COLOR white][B]KIDS[/B][/COLOR] [COLOR orangered]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/kids.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Kids</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
