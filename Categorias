@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|[/COLOR] [COLOR yellow][B]FILMES[/B][/COLOR] [COLOR yellow]|[/COLOR]</name>
+<name>[COLOR azure]|[/COLOR] [COLOR azure][B]FILMES[/B][/COLOR] [COLOR azure]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Filmes</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR] - O MELHORES LANÇAMENTOS - [COLOR yellow]|[/COLOR]</info>
+[COLOR azure]|[/COLOR] - O MELHORES LANÇAMENTOS - [COLOR azure]|[/COLOR]</info>
 </channel>
 </channels>
 
