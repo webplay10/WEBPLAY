@@ -9,7 +9,7 @@
 <info>
 
 
-[COLOR azure]|[/COLOR] - O MELHORES LANÇAMENTOS - [COLOR azure]|[/COLOR]</info>
+[COLOR azure]|O MELHORES LANÇAMENTOS [/COLOR]</info>
 </channel>
 </channels>
 
@@ -24,7 +24,7 @@
 <info>
 
 
-[COLOR orangered]|[/COLOR] - AS MELHORES SÉRIES - [COLOR orangered]|[/COLOR]</info>
+[COLOR orangered]|AS MELHORES SÉRIES |[/COLOR]</info>
 </channel>
 </channels>
 
@@ -34,14 +34,14 @@
 
 <channels>
 <channel>
-<name>[COLOR green]|[/COLOR] [COLOR green][B]KIDS[/B][/COLOR] [COLOR green]|[/COLOR]</name>
+<name>[COLOR Lime]|[/COLOR] [COLOR Lime][B]KIDS[/B][/COLOR] [COLOR Lime]|[/COLOR]</name>
 <thumbnail>https://ia801501.us.archive.org/23/items/kids_20200209/kids.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Kids</externallink>
 <fanart>https://ia801407.us.archive.org/18/items/fanart_20200208/fanart.jpg</fanart>
 <info>
 
 
-[COLOR green]|[/COLOR] - TUDO PARA CRIANÇADA - [COLOR green]|[/COLOR]</info>
+[COLOR Lime]|TUDO PARA CRIANÇADA|[/COLOR]</info>
 </channel>
 </channels>
 
