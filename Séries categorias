@@ -1,6 +1,20 @@
 <channels>
 <channel>
-<name> [COLOR azure] [B] ...::::SÉRIES TESTE::::...  [/COLOR] [/B]</name>
+<name> [COLOR orangered] [B] ...::::SÉRIES::::... [/B] [/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://</fanart>
+<info>
+[COLOR orangered] |AS MELHORES SÉRIES| [/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name> [COLOR azure] SÉRIES TESTE [/COLOR]</name>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcVx84Pz0dBSr77Q8lh3NNyDNt73KX8wFXGLLxdQgqM109lJGK</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Series%20Teste</externallink>
 <fanart>https://lh3.googleusercontent.com/proxy/xVObOa-2Z5vI3FD0eRsScBsWs-8K6fnLKnVV1pKwsRqGMORHEXscJBKGrzZyFPpuMDFULnmlz3ccffI3shRrI0PpPf7ab-O6g-kD_Kjy</fanart>
@@ -18,7 +32,7 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] [B] A BÍBLIA [/COLOR] [/B]</name>
+<name> [COLOR azure]A BÍBLIA [/COLOR]</name>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcVx84Pz0dBSr77Q8lh3NNyDNt73KX8wFXGLLxdQgqM109lJGK</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/A%20biblia</externallink>
 <fanart>https://lh3.googleusercontent.com/proxy/xVObOa-2Z5vI3FD0eRsScBsWs-8K6fnLKnVV1pKwsRqGMORHEXscJBKGrzZyFPpuMDFULnmlz3ccffI3shRrI0PpPf7ab-O6g-kD_Kjy</fanart>
@@ -35,7 +49,7 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] [B] HAGNAROK [/COLOR] [/B]</name>
+<name> [COLOR azure] HAGNAROK [/COLOR]</name>
 <thumbnail>https://www.filmesonlinehdx.org/wp-content/uploads/2020/02/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Ragnarok</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
@@ -52,7 +66,7 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] [B] VIKINGS [/COLOR] [/B]</name>
+<name> [COLOR azure] VIKINGS [/COLOR]</name>
 <thumbnail>https://www.filmesonlinehdx.org/wp-content/uploads/2019/12/ff1zhqvwfS5HvRNcA5UFrH0PA2q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Vikings</externallink>
 <fanart>https://image.tmdb.org/t/p/original/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg</fanart>
@@ -69,7 +83,7 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] [B] THE WITCHER [/COLOR] [/B]</name>
+<name> [COLOR azure] THE WITCHER [/COLOR]</name>
 <thumbnail>http://br.web.img3.acsta.net/pictures/19/11/29/17/57/5161763.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/The%20Witcher</externallink>
 <fanart>https://occ-0-590-586.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXg51hE-1qoRnsNu2KdKAQfL8k29HTDk1-gLyCyZIFNNuL3VwamMY2Xvd5YBIoWr2RfneGv4WHwVoovnVmNmwNVFuFIQ.jpg?r=2f0</fanart>
@@ -86,7 +100,7 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] [B] WESTWORD [/COLOR] [/B]</name>
+<name> [COLOR azure] WESTWORD [/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ec/Westworld_Temporada_2_Poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Westword</externallink>
 <fanart>https://s3.amazonaws.com/seriemaniacos/uploads/2016/10/Westworld-capa.jpgfneGv4WHwVoovnVmNmwNVFuFIQ.jpg?r=2f0</fanart>
