@@ -6,13 +6,15 @@
 
 
 
-
-
-
 #extinf:-1 tvg-logo="xx" group-title="Espaçamento", [COLOR green]######[/COLOR] [COLOR yellow]MM FILMES APRESENTA:[/COLOR] [COLOR green]######[/COLOR]
 http://bit.ly/bbemvindo
 #extinf:-1 , [COLOR black]#####[/COLOR] [COLOR red] Atualizado [/COLOR] [COLOR yellow]26/06/18[COLOR black]#######[/COLOR]
 http://bit.ly/bbemvindo
+
+
+#EXTINF:-1 tvg-logo"http://assets.caixabelasartes.com.br/wp-content/uploads/2017/02/Estrelas-Alem-do-Tempo-Cart bbbbbaz.jpg" group-title="Filmes", Busca implacavel (2008)
+https://onedrive.live.com/download?resid=7DEE4E331A01454F!103&authkey=aHR0cHM6Ly9qeGpqeHktbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvZGFkb3NfdF9vZG1haWxfY24vRWZGbFV6bDIybDVFb0ZDZGhzcmVLczBCczZTbFY3bkl4TzFwbWFqNWlsVXZBZz9ydGltZT1JWjB1bEg3WDEwZw
+
 
 #EXTINF:-1 tvg-logo"http://assets.caixabelasartes.com.br/wp-content/uploads/2017/02/Estrelas-Alem-do-Tempo-Cartaz.jpg" group-title="Filmes", Busca implacavel (2008)
 https://onedrive.live.com/download?resid=7DEE4E331A01454F!103&authkey=!ACUPqfcdwj8JDkM
