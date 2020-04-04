@@ -26,12 +26,28 @@
 <title> [COLOR white] [B] WEB[/COLOR][COLOR red]PLAY [/COLOR] [COLOR yellow] | [/B] [/COLOR] [COLOR azure] Aladdin [/COLOR] - [COLOR orangeazure](2019)[/COLOR]- [B] [COLOR SlateGray] Dublado [/COLOR] [/B]</title>
 >>>>>>> fa9849c5aafef2f2344537bf61f63bdd6e4a3ff3
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CuzFVDuRv7D1nPbg-ghSYFIP_s0rLD77/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CuzFVDuRv7D1nPbg-ghSYFIP_s0rLD77/view</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/be/Aladdin_%282019%29.jpg</thumbnail>
 <fanart>https://lumiere-a.akamaihd.net/v1/images/aladdin-movie-poster_be28e5c2.jpeg?region=0%2C0%2C600%2C900</fanart>
 <info>[COLOR red][B] by [/B][/COLOR][COLOR red][B] webplay [/B][/COLOR] - Sipnose: [COLOR azure]  Aladdin é um filme musical de fantasia e romance estadunidense de 2019, dirigido por Guy Ritchie e escrito por Ritchie em colaboração com John August e Vanessa Taylor, sendo o remake em live-action do longa-metragem animado Aladdin, de 1992, baseado no conto árabe Aladim e a Lâmpada Maravilhosa de autoria de Hanna Diyab, que foi adicionado às As Mil e Uma Noites por Antoine Galland, aparecendo em sua tradução francesa Les mille et une nuits..[/COLOR]</info>
 <genre>Ação | Aventura | Drama</genre>
 <category>Aventura</category>
 </item>
+
+
+<item>
+<title> [COLOR white] [B] WEB[/COLOR][COLOR red]PLAY [/COLOR] [COLOR yellow] | [/B] [/COLOR] [COLOR azure] Shazam [/COLOR] - [COLOR orangeazure](2019)[/COLOR]- [B] [COLOR SlateGray] Dublado [/COLOR] [/B]</title>
+>>>>>>> fa9849c5aafef2f2344537bf61f63bdd6e4a3ff3
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dNuGEu3EReyAGlYKoEmnZwcQlB4t3oUl$$lsname=[COLOR orangeazure] Assistir [/COLOR] - [COLOR lime] Servidor1 [/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dNuGEu3EReyAGlYKoEmnZwcQlB4t3oUl/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dNuGEu3EReyAGlYKoEmnZwcQlB4t3oUl/view</link>
+<thumbnail>data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==</thumbnail>
+<fanart>https://conteudo.imguol.com.br/c/entretenimento/2a/2019/03/04/zachary-levi-em-cena-do-segundo-trailer-de-shazam-1551721076995_v2_1920x1080.jpg</fanart>
+<info>[COLOR red][B] by [/B][/COLOR][COLOR red][B] webplay [/B][/COLOR] - Sipnose: [COLOR azure]  Billy Batson tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar em um super-herói adulto chamado Shazam. Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana.[/COLOR]</info>
+<genre>Ação | Aventura | Drama</genre>
+<category>Aventura</category>
+</item>
+
 
 <item>
 <title> [COLOR white] [B] WEB[/COLOR][COLOR red]PLAY [/COLOR] [COLOR yellow] | [/B] [/COLOR] [COLOR azure] Rambo Até o Final [/COLOR] - [COLOR orangeazure](2019)[/COLOR]- [B] [COLOR SlateGray] Dublado [/COLOR] [/B]</title>
