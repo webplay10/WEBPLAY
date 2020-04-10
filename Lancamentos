@@ -15,6 +15,7 @@
 >>>>>>> fa9849c5aafef2f2344537bf61f63bdd6e4a3ff3
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QDMsSlsne1h33Wft4vEbDynMUUicIwRM/view?usp=drivesdk</link>
 <link>http://localhost:8096/emby/videos/67/stream.mp4?DeviceId=c3bc1923-085a-4242-8461-e07903cb20ba&MediaSourceId=e5b066d6ddc86ffe544dce67017a9859&Static=true&PlaySessionId=9221ed19990f4fe9828d54f1e9459657&api_key=68649138778f480ab2b5fc99f79de528</link>
+<link>http://127.0.0.1:32400/library/parts/60/1586544706/file.mp4?X-Plex-Session-Identifier=q7gl7yqn1bi18ee5vghxn1ce&X-Plex-Product=Plex%20Web&X-Plex-Version=4.22.3&X-Plex-Client-Identifier=a1wg74lxc642z0io69qgau00&X-Plex-Platform=Chrome&X-Plex-Platform-Version=81.0&X-Plex-Sync-Version=2&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x722%2C1536x864&X-Plex-Token=181R3Zy3AxseMx_fE8t4&X-Plex-Language=pt-BR&Accept-Language=pt-BR</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fc/Dark_Phoenix_%282019%29.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/wR0kVICHt7BtbclBOJ_z3OA2VjI=/1200x630/smart/extras/conteudos/x-men-dark-phoenix.jpeg</fanart>
 <info>[COLOR red][B] by [/B][/COLOR][COLOR red][B] webplay [/B][/COLOR] - Sipnose: [COLOR azure] Jean Grey começa a desenvolver incríveis poderes que a corrompem e a transformam em uma Fênix Negra. Agora, os X-Men precisam decidir se a vida de um membro da equipe vale mais do que todas as pessoas do mundo.[/COLOR]</info>
