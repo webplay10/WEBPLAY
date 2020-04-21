@@ -28,14 +28,12 @@
 </channels>
 
 
-
-
 <channels>
 <channel>
-<name> [COLOR azure]A BÍBLIA [/COLOR]</name>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcVx84Pz0dBSr77Q8lh3NNyDNt73KX8wFXGLLxdQgqM109lJGK</thumbnail>
+<name> [COLOR azure]A BÍBLIA[B][COLOR orange]-IMDb 7,5[/COLOR][/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmMyYmY0NWYtMGY1ZC00NGQwLTk5MjYtMjBlMjFmZGM1MzEyXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_SY1000_CR0,0,702,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/A%20biblia</externallink>
-<fanart>https://lh3.googleusercontent.com/proxy/xVObOa-2Z5vI3FD0eRsScBsWs-8K6fnLKnVV1pKwsRqGMORHEXscJBKGrzZyFPpuMDFULnmlz3ccffI3shRrI0PpPf7ab-O6g-kD_Kjy</fanart>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTUxMTI3ODA2MF5BMl5BanBnXkFtZTcwMDk3MzMyOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <info>[B]Sipnose:[/B]  A minissérie acompanha tudo desde a Gênesis até o Apocalipse, em cinco partes de duas horas cada. Cada uma das partes contém de duas a três histórias bíblicas, contadas através de imagens e computação gráfica. Histórias como A Arca de Noé, Êxodus, e o nascimento, morte e ressurreição de Jesus estão incluídas.
 [COLOR firebrick]l[B] 1° E 2° Temporada [/B]l[/COLOR]
 <info>
@@ -49,10 +47,10 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] HAGNAROK [/COLOR]</name>
-<thumbnail>https://www.filmesonlinehdx.org/wp-content/uploads/2020/02/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<name> [COLOR azure] HAGNAROK[B][COLOR orange]-IMDb 8,6[/COLOR][/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODM3NTZkZTUtYzEyYS00NjEyLTg2NjEtNDhlMjYwY2ZkNGUzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Ragnarok</externallink>
-<fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
+<fanart>hhttps://m.media-amazon.com/images/M/MV5BMWIyMzNkYjYtMjZkYS00YWU2LWEyNmItZTQ1OGY0NjI1NDBmXkEyXkFqcGdeQXVyMTEzMzgzNTc1._V1_.jpg</fanart>
 <info>[B]Sipnose:[/B]  Ragnarok é um drama da Netflix em língua norueguesa que estreou em 31 de janeiro de 2020. A série é produzida pela produtora dinamarquesa SAM Productions.
 [COLOR firebrick]l[B] 1° Temporada [/B]l[/COLOR]
 <info>
@@ -66,10 +64,10 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] VIKINGS [/COLOR]</name>
-<thumbnail>https://www.filmesonlinehdx.org/wp-content/uploads/2019/12/ff1zhqvwfS5HvRNcA5UFrH0PA2q.jpg</thumbnail>
+<name> [COLOR azure] VIKINGS[B][COLOR orange]-IMDb 8,6[/COLOR][/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjIzZjljZmQtOGNiYi00YmY2LWE1MGYtN2VlMmEyZDBlMzRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX666_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Vikings</externallink>
-<fanart>https://image.tmdb.org/t/p/original/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg</fanart>
+<fanart>https://m.media-amazon.com/images/M/MV5BNjFjYjdjNWUtNDE3ZC00MGIwLWE3ZmUtNjhhYTU3ZDRhODkxXkEyXkFqcGdeQXVyMzY1MjY1NTY@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <info>[B]Sipnose:[/B]  Ragnar Lothbrok, um lendário herói nórdico, é um mero fazendeiro que se levanta para se tornar um guerreiro destemido e comandante das tribos viking com o apoio de sua família igualmente feroz. Faz
 [COLOR firebrick]l[B] 1° HÁ 6° Temporada [/B]l[/COLOR]
 <info>
@@ -83,10 +81,10 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] THE WITCHER [/COLOR]</name>
-<thumbnail>http://br.web.img3.acsta.net/pictures/19/11/29/17/57/5161763.jpg</thumbnail>
+<name> [COLOR azure] THE WITCHER[B][COLOR orange]-IMDb 8,3[/COLOR][/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/The%20Witcher</externallink>
-<fanart>https://occ-0-590-586.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXg51hE-1qoRnsNu2KdKAQfL8k29HTDk1-gLyCyZIFNNuL3VwamMY2Xvd5YBIoWr2RfneGv4WHwVoovnVmNmwNVFuFIQ.jpg?r=2f0</fanart>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTllNTkzMmUtNDBjMy00OGEyLTgwZGEtZTMzZTI1ZmE0ZTU0XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg</fanart>
 <info>[B]Sipnose:[/B]  [COLOR azure] "Baseado em best-sellers de fantasia, The Witcher é um conto épico de destino e família, centrado no famoso caçador de monstros Geralt de Rivia. É ambientado no mundo do Continente, onde humanos, elfos, bruxos, gnomos e monstros lutam para sobreviver e prosperar, e onde o bem e o mal não são facilmente identificados." [/COLOR]
 [COLOR firebrick]l[B] 1° Temporada [/B]l[/COLOR]
 <info>
@@ -100,7 +98,7 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] WESTWORD [/COLOR]</name>
+<name> [COLOR azure] WESTWORD[B][COLOR orange]-IMDb 8,7[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ec/Westworld_Temporada_2_Poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Westword</externallink>
 <fanart>https://s3.amazonaws.com/seriemaniacos/uploads/2016/10/Westworld-capa.jpgfneGv4WHwVoovnVmNmwNVFuFIQ.jpg?r=2f0</fanart>
@@ -117,10 +115,10 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] BRITANNIA [/COLOR]</name>
+<name> [COLOR azure] BRITANNIA[B][COLOR orange]-IMDb 6,7[/COLOR][/B]</name>
 <thumbnail>https://www.baixarseriesmega.org/wp-content/uploads/2019/12/Britannia.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Britannia</externallink>
-<fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7de0a6f1e268066933c54c8a2d066914bd9a08e84fc8eaea7f81f71cd84a44e2._V_SX1080_.jpg</fanart>
+<fanart>https://m.media-amazon.com/images/M/MV5BYmY0M2Q4NGQtZDFhZC00ZWQyLWI5YWMtY2VhZmIzMmZmYjliXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg</fanart>
 <info>[B]Sipnose:[/B] [COLOR azure] "Britannia é uma série de fantasia histórica britânica-americana escrita por Jez Butterworth. A série de nove partes é a primeira co-produção entre Sky e Amazon Prime Video, e estrela Kelly Reilly, David Morrissey, Zoë Wanamaker, Liana Cornell e Stanley Weber." [/COLOR]
 [COLOR firebrick]l[B] 1° e 2° Temporada [/B]l[/COLOR]
 <info>
@@ -133,10 +131,10 @@
 
 <channels>
 <channel>
-<name> [COLOR azure] LA CASA DE PAPEL [/COLOR]</name>
-<thumbnail>https://conteudo.imguol.com.br/c/entretenimento/3c/2019/07/17/poster-da-parte-3-de-la-casa-de-papel-1563405479428_v2_1080x1350.jpg</thumbnail>
+<name> [COLOR azure] LA CASA DE PAPEL[B][COLOR orange]-IMDb 8,5[/COLOR][/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/La%20Casa%20de%20Papel</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgOlUI4xqNgaspaJ0inxUuKKetKDuHRqkzl7me419ZZWCc9byx&usqp=CAU</fanart>
+<fanart>https://m.media-amazon.com/images/M/MV5BYTE3ZmZhZDYtMmIxNy00ZDA4LTljY2ItNzk0YjFlOWJlOWRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <info>[B]Sipnose:[/B] [COLOR azure] "Britannia é uma série de fantasia histórica britânica-americana escrita por Jez Butterworth. A série de nove partes é a primeira co-produção entre Sky e Amazon Prime Video, e estrela Kelly Reilly, David Morrissey, Zoë Wanamaker, Liana Cornell e Stanley Weber." [/COLOR]
 [COLOR firebrick]l[B] 1° há 4° Temporada [/B]l[/COLOR]
 <info>
