@@ -8,44 +8,19 @@
 [COLOR white] |LANÇAMENTOS| [/COLOR]<info>
 <item>
 
+
 <items>
-    <items_info>Pica-Pau: O Filme<!-- this is opitonal -->
-      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </items_info>
+<items_info>Pica-Pau: O Filme<!-- this is opitonal -->
+<title>Woody WoodpeckerL</title> <!-- a title is required, other elements are optional -->
+<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14MKYLV7_FlCnsWsFrSxH_EIvuUZqxGjL</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjJjMmRkNjYtNmJhNi00ZDM1LWEzMjMtOWZjNjgxODc1YmFlXkEyXkFqcGdeQXVyOTQyNTIzNjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNDcyM2UyMzktODRjZS00NDczLWI0OWQtYTM4YjhiMmQ3MTI3XkEyXkFqcGdeQXVyNzc1MTExNTk@._V1_.jpg</fanart>
+<date>05.09.2017</date>
+<genre>Comédia e Família</genre>
+<credits>divingmule, Johnny Cache</credits>
+</items_info>Woody Woodpecker é uma série animada americana de curtas-metragens de comédia criados por Walter Lantz. Foi produzido pela Walter Lantz Productions e distribuído pela Universal Pictures entre 1940 e 1972.
 
-    <item>
-        <title>POKER CHANNEL</title>
-        <link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14MKYLV7_FlCnsWsFrSxH_EIvuUZqxGjL</link>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Poker</genre>
-        <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-        <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
-    </item>
-    
-	<item>
-        <title>NHK - World</title>         
-        <link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
-        <thumbnail>http://header_logo.gif</thumbnail>
-    </item>
-	
-    <item>
-        <title>BBC World</title>         
-        <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
-        <thumbnail>http://some/place.jpg</thumbnail>
-	
-</items>
-
-
-
-
+   
 <item>
 <title> [COLOR white] [B] WEB[/COLOR][COLOR red]PLAY [/COLOR] [COLOR yellow] | [/B] [/COLOR] [COLOR azure] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [/COLOR] - [COLOR orangeazure](2020)[/COLOR]- [B] [COLOR SlateGray] Dublado [/COLOR] [/B]</title>
 >>>>>>> fa9849c5aafef2f2344537bf61f63bdd6e4a3ff3
