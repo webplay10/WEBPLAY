@@ -1,3 +1,15 @@
+
+<item>
+<title>[COLOR orange][B][COLOR lime] test![/COLOR] IMDb: 7,5/10[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=mmagnet:?xt=urn:btih:EC2E866540E3174A6763D934FCB7556DD2FF6C4D&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eOD1KUdeheVTdCdvxdDLL7RxF8Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ex0dyFiWae5t8EYWZJlZmYXC05q.jpg</fanart>
+<genre> [COLOR White][B] Ação, Aventura, Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Billy Batson (Asher Angel) tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar num super-herói adulto chamado Shazam (Zachary Levi). Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana (Mark Strong).[/COLOR] IMDb: 7,5/10[/B]</info>
+</item>
+
+
+
 <item>
 <title>[COLOR orange][B][COLOR lime] Shazam![/COLOR] IMDb: 7,5/10[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADDD590C00121F6E4E49474426C048148376D3AA&dn</link>
