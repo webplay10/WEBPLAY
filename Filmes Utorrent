@@ -1,4 +1,11 @@
 <item>
+<title>Archive</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22f593988e94619a4bcab69dd4f980611d09ef/link> 
+<thumbnail>https://image.tmdb.org/t/p/w342/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg</fanart>
+</item>
+
+<item>
 <title>The Lost Husband</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ada4c219c245ff3882a1717434569ef0153ea66</link> 
 <thumbnail>https://image.tmdb.org/t/p/w342/zIYB3G0lCHfkENOqmSI9tkRlJ3F.jpg</thumbnail>
