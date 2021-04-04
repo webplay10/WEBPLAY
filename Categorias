@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR azure]...::::|[/COLOR] [COLOR azure][B]F i l m e s[/B][/COLOR] [COLOR azure]|::::...[/COLOR]</name>
+<name>[COLOR azure]...::::|[/COLOR] [COLOR azure][B]Filmes[/B][/COLOR] [COLOR azure]|::::...[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/23/items/kids3_202009/filmes3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Filmes</externallink>
 <fanart>https://miro.medium.com/max/5120/1*eCVNm1cZMxdD06BWFn1ejA.jpeg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]...::::|[/COLOR] [COLOR orangered][B]S e r i e s[/B][/COLOR] [COLOR orangered]|::::...[/COLOR]</name>
+<name>[COLOR orangered]...::::|[/COLOR] [COLOR orangered][B]Series[/B][/COLOR] [COLOR orangered]|::::...[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/6/items/series-2/S%C3%A9ries2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/S%C3%A9ries</externallink>
 <fanart>https://m.media-amazon.com/images/M/MV5BYmY0M2Q4NGQtZDFhZC00ZWQyLWI5YWMtY2VhZmIzMmZmYjliXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_.jpg</fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]...::::|[/COLOR] [COLOR lime][B]K i d s[/B][/COLOR] [COLOR lime]|::::...[/COLOR]</name>
+<name>[COLOR lime]...::::|[/COLOR] [COLOR lime][B]Kids[/B][/COLOR] [COLOR lime]|::::...[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/23/items/kids3_202009/kids3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/webplay10/WEBPLAY/master/Kids</externallink>
 <fanart>https://3.bp.blogspot.com/-ZBwB_HsPE54/Wjvk4bemwsI/AAAAAAAAHD8/DnDq5fEdhIEYQBuvp6yr4-hjnvTVAcaRgCLcBGAs/s2560/ferdinand_animation-2560x1440.jpg</fanart>
