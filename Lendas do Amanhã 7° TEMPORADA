@@ -10,7 +10,8 @@
 
 
 
-<channels>
+<item>
+<item>
 <name>[COLOR azure] EPISÓDIO 01 [/COLOR]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09e743f88538a117ba389ab7268f54dcc89e38da&dn$nome= Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4f47d7bc3205f1c49d20421f21f082c7695081&dn$nome= Legendado</link>
@@ -19,4 +20,5 @@
 <info>A sétima temporada da série Legends of Tomorrow. Quando apenas heróis sozinhos não são suficientes… o mundo precisa de lendas. Tendo visto o futuro, um que ele precisa desesperadamente evitar que aconteça, o viajante do tempo Rip Hunter recebe a tarefa de juntar um time heterogêneo, composto tanto de heróis quanto vilões, que devem dar fim a uma gigantesca ameaça — uma que coloca não apenas o planeta em risco, mas o próprio tempo. Será este time capaz de derrotar um inimigo imortal diferente de tudo que já foi visto?.</info>
 <genre>Ação, Aventura, Drama</genre>
 <year>2021</year>
-</channels>
+</item>
+</item>
