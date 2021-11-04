@@ -32,7 +32,8 @@
 
 [COLOR firebrick]l[B] 1° Temporada [/B]l[/COLOR]
 <info>
-
+<channels>
+<channel>
 
 
 <channels>
@@ -47,7 +48,7 @@
 [COLOR firebrick]l[B] 1° Temporada [/B]l[/COLOR]
 <info>
 <channels>
-<channel>
+</channel>
 
 
 
@@ -63,7 +64,7 @@
 [COLOR firebrick]l[B] 1° Temporada [/B]l[/COLOR]
 <info>
 <channels>
-<channel>
+</channel>
 
 <channels>
 <channel>
