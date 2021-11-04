@@ -1,3 +1,16 @@
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>LINK FILME$nome= Dublado</link>
+<link>LINK FILME$nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
 <item>
 <title>Fundação -1ª Temporada (2021) </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec47be86243af3a115309253944be8a13352ff0&dn</link> 
