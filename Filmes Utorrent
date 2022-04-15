@@ -14,10 +14,10 @@
 <item>
 <title>[COLOR azure]7° TEMPORADA [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=gnet:?xt=urn:btih:09e743f88538a117ba389ab7268f54dcc89e38da&d$nome= Episódio 01</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242053a3eb8b6ca917bbfd5112356dd320b09124&dn</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e359f4700ce96a742f4976c87d7fb94370f23ade&dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242053a3eb8b6ca917bbfd5112356dd320b09124&d$nome= Episódio 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e359f4700ce96a742f4976c87d7fb94370f23ade&d$nome= Episódio 03</link>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33e792c59865cc111debcaa88116c7a2b9bd97d&dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33e792c59865cc111debcaa88116c7a2b9bd97d&d$nome= Episódio 04</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1087c7edaee9882f2e52cbf7db7720f3c820f0e5&dn</link>
 
